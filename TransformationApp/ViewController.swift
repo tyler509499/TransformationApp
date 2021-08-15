@@ -15,9 +15,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         viewLoaded()
-//        let rotate = UIRotationGestureRecognizer(target: self, action: #selector(rotatedRectangle(_:)))
-//        view.addGestureRecognizer(rotate)
-        
     }
     
     private func viewLoaded() {
